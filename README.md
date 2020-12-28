@@ -1,0 +1,2 @@
+# yocto-core
+RISC cpu
